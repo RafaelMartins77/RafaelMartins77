@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelMartins77
-- 👀 I’m interested in work with python developer
+- 👀 I’m interested in work as python developer
 - 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on backend developing
 - 📫 How to reach me by e-mail: rflmartins77@gmail.com
 
 <!---
