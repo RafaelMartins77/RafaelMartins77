@@ -2,7 +2,7 @@
 - 👀 I’m interested in work as python developer
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on development backend
-- 📫 How to reach me by e-mail: rflmartins77@gmail.com
+- 📫 How to reach me by e-mail: martinssantos0005@gmail.com
 
 <!---
 RafaelMartins77/RafaelMartins77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
