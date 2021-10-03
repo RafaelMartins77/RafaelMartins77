@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RafaelMartins77
+- 👋 Hi, I’m Rafael Martins
 - 👀 I’m interested in work as python developer
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on development backend
