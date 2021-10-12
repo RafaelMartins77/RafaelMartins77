@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael Martins
 - 👀 I’m interested in work as python developer
 - 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on development backend
+- 💞️ I’m looking to collaborate on development desktop
 - 📫 How to reach me by e-mail: martinssantos0005@gmail.com
 
 <!---
